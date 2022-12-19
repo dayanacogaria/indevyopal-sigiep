@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <meta name="description" content="Sistema Integrado">
+    <meta name="description" content="Sistema Contable">
+    <title>Recaudo Diario Detallado</title>
+</head>
+<body>
+    <table style="width: 100%; border-collapse: collapse; font-family: 'Arial', sans-serif;">
+        <thead>
+            <tr>
+                <th style="text-align: center" colspan="10">MUNICIPIO DE TUNUNGUA</th>
+            </tr>
+            <tr>
+                <th style="text-align: center" colspan="10">NIT : 800099639 - 3</th>
+            </tr>
+            <tr>
+                <th style="text-align: center" colspan="10">Listado de Facturas y Recaudos</th>
+            </tr>
+            <tr style="font-size: 12px;">
+                <th style="border: 1px solid #000">N° Factura</th>
+                <th style="border: 1px solid #000">Fecha Factura</th>
+                <th style="border: 1px solid #000">Codigo Catastral</th>
+                <th style="border: 1px solid #000">Propietario</th>
+                <th style="border: 1px solid #000">N° Recaudo</th>
+                <th style="border: 1px solid #000">Fecha Recaudo</th>
+                <th style="border: 1px solid #000">Valor Factura</th>
+                <th style="border: 1px solid #000">Valor Recaudo</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+                                                                  <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000522</td>
+                        <td style="font-size: 13px; border: 1px solid #000">01/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030025000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">BERNARDINO SUC GUERRERO          </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">216,811</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000523</td>
+                        <td style="font-size: 13px; border: 1px solid #000">02/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000020012000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS ALBERTO FORERO WALTEROS     </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200846</td>
+                        <td style="font-size: 13px; border: 1px solid #000">02/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">14,946</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">14,946</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000524</td>
+                        <td style="font-size: 13px; border: 1px solid #000">06/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000060010000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">POMPILIO GARCIA RODRIGUEZ        </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200847</td>
+                        <td style="font-size: 13px; border: 1px solid #000">06/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">81,272</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">81,272</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000525</td>
+                        <td style="font-size: 13px; border: 1px solid #000">06/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000040122000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS HERNANDO CHIQUIZA CANON     </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">89,211</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000526</td>
+                        <td style="font-size: 13px; border: 1px solid #000">10/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030140000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">HUMBERTO FRANCISC AGUDELO BARRERA</td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200849</td>
+                        <td style="font-size: 13px; border: 1px solid #000">10/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">383,880</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000527</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030140000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">HUMBERTO FRANCISC AGUDELO BARRERA</td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">22,109</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000528</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000040122000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS HERNANDO CHIQUIZA CANON     </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">89,211</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000529</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000040122000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS HERNANDO CHIQUIZA CANON     </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200850</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">89,211</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">89,211</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000530</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030140000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">HUMBERTO FRANCISC AGUDELO BARRERA</td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200852</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">384,122</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000531</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030140000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">HUMBERTO FRANCISC AGUDELO BARRERA</td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200854</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">384,122</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000532</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030140000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">HUMBERTO FRANCISC AGUDELO BARRERA</td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200856</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">192,061</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">192,061</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000533</td>
+                        <td style="font-size: 13px; border: 1px solid #000">16/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030140000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">HUMBERTO FRANCISC AGUDELO BARRERA</td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">22,109</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000534</td>
+                        <td style="font-size: 13px; border: 1px solid #000">21/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000060106000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JULIO ZAZA                       </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200857</td>
+                        <td style="font-size: 13px; border: 1px solid #000">21/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">96,256</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">96,256</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000535</td>
+                        <td style="font-size: 13px; border: 1px solid #000">23/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050086000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">PEREGRINO SANCHEZ                </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200858</td>
+                        <td style="font-size: 13px; border: 1px solid #000">23/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">135,440</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">135,440</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000536</td>
+                        <td style="font-size: 13px; border: 1px solid #000">23/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010033000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">MARIA DEL CARMEN PARRA ABRIL     </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200859</td>
+                        <td style="font-size: 13px; border: 1px solid #000">23/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">3,504,947</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">881,981</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000537</td>
+                        <td style="font-size: 13px; border: 1px solid #000">28/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000020063000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">FABIAN MARCEL HERNANDEZ FERNANDEZ</td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200860</td>
+                        <td style="font-size: 13px; border: 1px solid #000">28/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">31,852</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">31,852</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000538</td>
+                        <td style="font-size: 13px; border: 1px solid #000">30/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010117000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">MARTIN PINEDA MURCIA             </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200861</td>
+                        <td style="font-size: 13px; border: 1px solid #000">30/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">171,365</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">171,365</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000539</td>
+                        <td style="font-size: 13px; border: 1px solid #000">30/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000060117000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">ADELMO DE JESUS POVEDA ALFONSO   </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200862</td>
+                        <td style="font-size: 13px; border: 1px solid #000">30/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">21,658</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">21,658</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000540</td>
+                        <td style="font-size: 13px; border: 1px solid #000">30/06/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000060095000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JOSE RICARDO GARCIA TORRES       </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200863</td>
+                        <td style="font-size: 13px; border: 1px solid #000">30/06/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">108,810</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">108,810</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000541</td>
+                        <td style="font-size: 13px; border: 1px solid #000">01/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000040078000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">SEGUNDO RONCANCIO                </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200864</td>
+                        <td style="font-size: 13px; border: 1px solid #000">01/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">85,044</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">85,044</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000542</td>
+                        <td style="font-size: 13px; border: 1px solid #000">06/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050170000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS RAMIRO PEREZ POBLADOR       </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200865</td>
+                        <td style="font-size: 13px; border: 1px solid #000">06/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">192,472</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">192,472</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000543</td>
+                        <td style="font-size: 13px; border: 1px solid #000">06/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050170000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS RAMIRO PEREZ POBLADOR       </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200866</td>
+                        <td style="font-size: 13px; border: 1px solid #000">06/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">51,585</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">51,585</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000544</td>
+                        <td style="font-size: 13px; border: 1px solid #000">07/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000040013000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS HERNANDO CHIQUIZA CANON     </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">704,985</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000545</td>
+                        <td style="font-size: 13px; border: 1px solid #000">07/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000040012000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">SOLON ANTONIO PENA ALDANA        </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">460,849</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000546</td>
+                        <td style="font-size: 13px; border: 1px solid #000">07/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030030000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS VIRVIESCAS MUNOZ            </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">388,822</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000547</td>
+                        <td style="font-size: 13px; border: 1px solid #000">07/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0100000000090004000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JULIO ORJUELA RIVERA TITO        </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">157,993</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000548</td>
+                        <td style="font-size: 13px; border: 1px solid #000">07/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010035000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">BLANCA MARIA ORTIZ ALVARADO      </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">162,054</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000549</td>
+                        <td style="font-size: 13px; border: 1px solid #000">13/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000020005000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JORGE ENRIQUE BARRERA CORTES     </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">118,364</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000550</td>
+                        <td style="font-size: 13px; border: 1px solid #000">13/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000070057000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JULIO AVILA                      </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">2,317,862</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000551</td>
+                        <td style="font-size: 13px; border: 1px solid #000">13/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000070044000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">VICTOR SEGUNDO ALFONSO           </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">1,128,423</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000552</td>
+                        <td style="font-size: 13px; border: 1px solid #000">13/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050078000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">SEGUNDO SANCHEZ                  </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200867</td>
+                        <td style="font-size: 13px; border: 1px solid #000">13/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">87,135</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">87,135</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000553</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000020053000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUDMILA GUERRERO GALINDO         </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200869</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">31,221</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">31,221</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000554</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000020008000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">HORACIO PASTRAN GOMEZ            </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200870</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">64,516</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">64,516</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000555</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0100000000020008000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">YEISMIN LILIANA CARANTON         </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200871</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">38,642</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">38,642</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000556</td>
+                        <td style="font-size: 13px; border: 1px solid #000">26/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050077000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">NEFTALI COMBITA CAMACHO          </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200873</td>
+                        <td style="font-size: 13px; border: 1px solid #000">26/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">127,453</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">127,453</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000557</td>
+                        <td style="font-size: 13px; border: 1px solid #000">29/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010145000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">ALFREDO ALFONSO DIAZ             </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200874</td>
+                        <td style="font-size: 13px; border: 1px solid #000">29/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">78,606</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">78,606</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000558</td>
+                        <td style="font-size: 13px; border: 1px solid #000">29/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010116000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">ALFREDO ALFONSO DIAZ             </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200875</td>
+                        <td style="font-size: 13px; border: 1px solid #000">29/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">35,356</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">35,356</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000559</td>
+                        <td style="font-size: 13px; border: 1px solid #000">29/07/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010093000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">GUILLERMO FREDY DIAZ GUERRERO    </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200876</td>
+                        <td style="font-size: 13px; border: 1px solid #000">29/07/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">33,306</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">33,306</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000560</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000060086000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS FRANCISCO SANCHEZ           </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200877</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">217,393</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000561</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000070077000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS FRANCISCO SANCHEZ           </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200879</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">45,408</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">45,408</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000562</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050041000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">PABLO ENRIQUE GONZALEZ           </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200880</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">21,027</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">21,027</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000563</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050082000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">PABLO ENRIQUE GONZALEZ           </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200881</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">68,163</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">68,163</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000564</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010157000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">SONIA YAZMIN ROMERO ORTEGA       </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200882</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">244,229</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">244,229</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000565</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010026000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">SONIA YAZMIN ROMERO ORTEGA       </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200883</td>
+                        <td style="font-size: 13px; border: 1px solid #000">03/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">99,185</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">99,185</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000566</td>
+                        <td style="font-size: 13px; border: 1px solid #000">04/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0100000000070008000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">ELSI MAIDEL VIRGUEZ DIAZ         </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200884</td>
+                        <td style="font-size: 13px; border: 1px solid #000">04/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">34,039</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">34,039</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000567</td>
+                        <td style="font-size: 13px; border: 1px solid #000">04/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000020028000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">ANA GILMA VILLAMIL FAJARDO       </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200885</td>
+                        <td style="font-size: 13px; border: 1px solid #000">04/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">39,469</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">39,469</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000568</td>
+                        <td style="font-size: 13px; border: 1px solid #000">08/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000060086000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS FRANCISCO SANCHEZ           </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200886</td>
+                        <td style="font-size: 13px; border: 1px solid #000">08/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">109,055</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">109,055</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000569</td>
+                        <td style="font-size: 13px; border: 1px solid #000">09/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000020056000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JORGE ENRIQUE BARRERA            </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200887</td>
+                        <td style="font-size: 13px; border: 1px solid #000">09/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">149,361</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">149,361</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000570</td>
+                        <td style="font-size: 13px; border: 1px solid #000">09/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030075000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">ROSA ELENA PASTRAN               </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200888</td>
+                        <td style="font-size: 13px; border: 1px solid #000">09/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">22,608</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">22,608</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000571</td>
+                        <td style="font-size: 13px; border: 1px solid #000">09/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000040013000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LUIS HERNANDO CHIQUIZA CANON     </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">719,845</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000572</td>
+                        <td style="font-size: 13px; border: 1px solid #000">10/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050076000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">ANA MARIA CAMACHO CAMACHO        </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200889</td>
+                        <td style="font-size: 13px; border: 1px solid #000">10/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">37,745</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">37,745</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000573</td>
+                        <td style="font-size: 13px; border: 1px solid #000">11/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0100000000070007000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JESUS ALECIO TORRES BELTRAN      </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200890</td>
+                        <td style="font-size: 13px; border: 1px solid #000">11/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">61,950</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">61,950</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000574</td>
+                        <td style="font-size: 13px; border: 1px solid #000">11/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0100000000070007000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JESUS ALECIO TORRES BELTRAN      </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200891</td>
+                        <td style="font-size: 13px; border: 1px solid #000">11/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">53,121</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">53,121</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000575</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050148000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">MARIA VIRGELINA ROJAS AVENDANO   </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200892</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">72,605</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">72,605</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000576</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050147000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JOSE ANTONIO PENA                </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200893</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">21,076</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">21,076</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000577</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000040106000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JOSE ANIBAL PENA ROJAS           </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200894</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">21,930</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">21,930</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000578</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/08/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030014000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">LILIA ELOISA BELTRAN SUAREZ      </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200895</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/08/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">59,240</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">59,240</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000579</td>
+                        <td style="font-size: 13px; border: 1px solid #000">05/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000070090000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">GILMA MURILLO PENA               </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200897</td>
+                        <td style="font-size: 13px; border: 1px solid #000">05/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">17,658</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">17,658</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000580</td>
+                        <td style="font-size: 13px; border: 1px solid #000">05/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000070032000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">EFRAIN PENA MURILLO OLDER        </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200898</td>
+                        <td style="font-size: 13px; border: 1px solid #000">05/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">10,658</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">10,658</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000581</td>
+                        <td style="font-size: 13px; border: 1px solid #000">05/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000070031000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">OLDER EFRAIN PENA MURRILLO       </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200899</td>
+                        <td style="font-size: 13px; border: 1px solid #000">05/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">10,463</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">10,463</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000582</td>
+                        <td style="font-size: 13px; border: 1px solid #000">08/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030048000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">NELSON GILBERT CASTELLANOS CHACON</td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200900</td>
+                        <td style="font-size: 13px; border: 1px solid #000">08/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">112,232</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">112,232</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000583</td>
+                        <td style="font-size: 13px; border: 1px solid #000">09/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000070038000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">GILMA MURILLO PENA               </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200901</td>
+                        <td style="font-size: 13px; border: 1px solid #000">09/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">34,491</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">34,491</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000584</td>
+                        <td style="font-size: 13px; border: 1px solid #000">09/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000070072000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">GILMA MURILLO PENA               </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200902</td>
+                        <td style="font-size: 13px; border: 1px solid #000">09/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">61,663</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">61,663</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000585</td>
+                        <td style="font-size: 13px; border: 1px solid #000">13/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000070092000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">GUILLERMINA SIERRA CANON         </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200903</td>
+                        <td style="font-size: 13px; border: 1px solid #000">13/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">34,491</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">34,491</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000586</td>
+                        <td style="font-size: 13px; border: 1px solid #000">20/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000030129000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">DORA INES SANCHEZ                </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200904</td>
+                        <td style="font-size: 13px; border: 1px solid #000">20/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">4,484</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">4,484</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000587</td>
+                        <td style="font-size: 13px; border: 1px solid #000">27/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000020002000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">CLARA BEATRIZ BARRERA CALDERON   </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200905</td>
+                        <td style="font-size: 13px; border: 1px solid #000">27/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">212,457</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">212,457</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000588</td>
+                        <td style="font-size: 13px; border: 1px solid #000">27/09/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000020066000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">CLARA BEATRIZ BARRERA CORTES     </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200906</td>
+                        <td style="font-size: 13px; border: 1px solid #000">27/09/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">29,868</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">29,868</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000590</td>
+                        <td style="font-size: 13px; border: 1px solid #000">11/10/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050117000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">DIOCELI MENDEZ                   </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200907</td>
+                        <td style="font-size: 13px; border: 1px solid #000">11/10/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">540,149</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">540,149</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000591</td>
+                        <td style="font-size: 13px; border: 1px solid #000">12/10/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010162000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">EMMA ERMINDA RIVERA SANCHEZ      </td>
+                         <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="font-size: 13px; border: 1px solid #000"></td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">67,332</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">0</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000592</td>
+                        <td style="font-size: 13px; border: 1px solid #000">13/10/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000010001000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JOSE SUC BARRERA                 </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200911</td>
+                        <td style="font-size: 13px; border: 1px solid #000">13/10/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">621,758</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">621,758</td>
+                    </tr>
+                                                                          <tr>
+                        <td style="font-size: 13px; border: 1px solid #000">2022000593</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/10/2022</td>
+                        <td style="font-size: 13px; border: 1px solid #000">&#039;0000000000050133000000000&#039;</td>
+                        <td style="font-size: 13px; border: 1px solid #000">JOSE ISIDRO ROMERO SANCHEZ       </td>
+                         <td style="font-size: 13px; border: 1px solid #000">202200912</td>
+                        <td style="font-size: 13px; border: 1px solid #000">18/10/2022</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">118,224</td>
+                        <td style="text-align: right; font-size: 13px; border: 1px solid #000">118,224</td>
+                    </tr>
+                                                    
+           
+            <tfoot>
+                <tr>
+                    <td colspan="6" style="font-size: 11px; border: 1px solid #000"><b>TOTALES</b></td>
+                    <td style="text-align: right; font-size: 13px; border: 1px solid #000"><b>16,277,458</b></td>
+                    <td style="text-align: right; font-size: 13px; border: 1px solid #000"><b>5,618,995</b></td>
+                    
+                </tr>
+            </tfoot>
+        </tbody>
+    </table>
+</body>
+</html>

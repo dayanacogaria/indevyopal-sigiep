@@ -1,0 +1,15 @@
+[28-Feb-2018 14:02:05 UTC] PHP Notice:  Use of undefined constant Arial - assumed 'Arial' in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/INFORME_EJECUCION_INGRESOS.php on line 406
+[28-Feb-2018 14:04:22 UTC] PHP Notice:  Use of undefined constant Arial - assumed 'Arial' in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/INFORME_EJECUCION_INGRESOS.php on line 406
+[28-Feb-2018 14:06:02 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/consultas.php on line 5
+[23-Apr-2018 20:36:02 UTC] PHP Notice:  Undefined index: sltrubi in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php on line 17
+[23-Apr-2018 20:36:02 UTC] PHP Notice:  Undefined index: sltrubf in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php on line 18
+[23-Apr-2018 20:36:02 UTC] PHP Notice:  Undefined index: fechaini in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php on line 19
+[23-Apr-2018 20:36:02 UTC] PHP Notice:  Undefined index: fechafin in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php on line 20
+[23-Apr-2018 20:36:02 UTC] PHP Notice:  Undefined index: sltTci in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php on line 21
+[23-Apr-2018 20:36:02 UTC] PHP Notice:  Undefined index: sltTcf in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php on line 22
+[23-Apr-2018 20:36:02 UTC] PHP Notice:  Undefined index: headH in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php on line 24
+[23-Apr-2018 20:36:02 UTC] PHP Notice:  Undefined index: footH in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php on line 25
+[23-Apr-2018 20:36:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on boolean in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/u858942576/public_html/normalsantiagodetunja-sigiep/informes/INFORMES_PPTAL/generar_INF_AUX_PPTALES_GASTOS.php on line 29

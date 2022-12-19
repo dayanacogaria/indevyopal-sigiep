@@ -1,0 +1,43 @@
+ALTER USER 'root'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'grupo3a@2020'
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'grupo3a@.12312ASDA.1231sA';
+
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Grupo3a@2020';
+
+
+CREATE USER 'sigiep'@'%' IDENTIFIED WITH mysql_native_password BY 'grupo3a@2020';
+
+GRANT ALL PRIVILEGES ON *.* TO 'sigiep'@'%' WITH GRANT OPTION;
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Grupo3a@2020';
+
+SELECT * FROM mysql.user WHERE user = 'sigiep';
+127.0.0.1
+31.220.49.57
+
+mkdir /etc/mysql/mysql.conf.d
+mkdir  /etc/mysql/mysql.conf.d/mysqld.cnf
+touch /etc/mysql/mysql.conf.d/mysqld.cnf
+
+rm para eliminar  ambos Dir Ar
+mkdir para crear directorios
+touch para crear archivos. 
+sudo mariadb
+
+ALTER USER 'sigiep'@'%' IDENTIFIED WITH mysql_native_password BY 'grupo3a@2020';
+
+GRANT ALL ON *.* TO 'sigiep'@'%' IDENTIFIED BY '	' WITH GRANT OPTION;
+
+ALTER USER 'sigiep'@'31.220.49.57' IDENTIFIED VIA mysql_native_password 
+  USING PASSWORD('grupo3a@2020');
+SELECT user,authentication_string,plugin,host FROM mysql.user
+
+sysctl – sunrpc.tcp_fin_timeou t = 60
+MARIA DB
+----------------------------------------------
+MariaDB [(none)]> CREATE USER 'sigiep'@'31.220.49.57' IDENTIFIED BY 'grupo3a@2020';                     Query OK, 0 rows affected (0.00 sec)
+
+MariaDB [(none)]> GRANT ALL ON *.* TO 'sigiep'@'31.220.49.57' IDENTIFIED BY 'grupo3a@2020' WITH GRANT OPTION;
+Query OK, 0 rows affected (0.01 sec)
+
