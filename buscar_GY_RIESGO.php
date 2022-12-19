@@ -1,7 +1,7 @@
 <?php
 	require_once('Conexion/conexion.php');
 	session_start();
-#Comment
+#Commentsss
 	$sqlRiesgo = "SELECT id_unico, nombre	
         FROM gy_riesgo
         WHERE tipo_riesgo = ".$_REQUEST['id_TipoR']." ";
